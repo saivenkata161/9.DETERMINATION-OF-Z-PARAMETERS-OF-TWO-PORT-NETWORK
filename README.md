@@ -30,10 +30,12 @@ Here Z11& Z22 are the input & output driving point impedances while Z12& Z21 are
 
 **CIRCUIT DIAGRAM:**
 
+<img width="904" height="1725" alt="image" src="https://github.com/user-attachments/assets/513a9509-1e42-438a-8040-26e052051fcc" />
 
 
 **TABULATION:**
 
+<img width="942" height="1731" alt="image" src="https://github.com/user-attachments/assets/8126e544-00c9-4028-b0e1-4b33f13fb780" />
 
 
 
